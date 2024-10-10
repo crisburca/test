@@ -1,0 +1,24 @@
+---
+title: "spotify"
+format: pdf
+editor: visual
+---
+
+```{r}
+#| echo: false
+#| include: false
+
+library(spotifyr)
+library(usethis)
+```
+
+
+```{r}
+edit_r_environ()
+```
+
+```{r}
+
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
